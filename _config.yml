@@ -68,6 +68,6 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy: 
-  type: git
+  type: git1
   repository: https://github.com/dongkai16z/sherrystar.github.io.git
   branch: master
